@@ -104,10 +104,10 @@ $ code .
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[HTML](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[CSS](https://react-icons.github.io/react-icons/)**
--   **[Javascript](https://react-icons.github.io/react-icons/)**
--   **[React](https://react-icons.github.io/react-icons/)**
+-   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+-   **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+-   **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+-   **[React](https://reactjs.org/)**
 
 
 <br />
